@@ -19,22 +19,29 @@
 * 腾讯-积木
   * [积木系统v2@江源.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
   * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
+* 腾讯-lowcode
+  * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
+* [无远开发平台](https://wuyuan.io/)
+  * [【无远哲学】无远开发模式的本体-不幻想构造计算机领域的永动机！](https://forum.wuyuan.io/plate/qa/topic/5fe1eb93f03b0a7eaef49584)
+  * [一种只写 SQL 做配置，完成复杂ERP系统的方法](https://forum.wuyuan.io/plate/qa/topic/5d1ad2ea268a2f727aaa494e)
+  * [无远+ShardingSphere 实现分布式数据库应用开发](https://forum.wuyuan.io/plate/qa/topic/5fdafe9c856fee309115a498)
 * [奥哲](https://www.authine.com/)
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
+  * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
+  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？】](https://bbs.ivx.cn/1535) 
+  * [iVX和其他低代码的开发平台区别究竟在哪里](https://bbs.ivx.cn/mobile/2746)
   * [ih5](https://www.ih5.cn/)
-* [闪电数据管理](http://www.gitmen.com/)
+* [闪电数据管理](http://www.gitmen.com/lightning)
   * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
-* 乘法云
-  * [状态管理的问题是什么](https://github.com/mulcloud/state-management-demo)
+  * [lightning —— 基于Django的无代码Admin及低代码开发框架](https://github.com/git-men/lightning)
 * [巴克云](https://www.buckycloud.com/)
 * [数式科技](https://shushi.pro/technology)
-* [明道云](https://www.mingdao.com/)
+* [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment)
 * [轻流](https://qingflow.com/)
 * [速融云](https://www.surongyun.cn/)
 * [简道云](https://www.jiandaoyun.com/)
 * [炎黄盈动](https://www.actionsoft.com.cn/)
-* [无远开发平台](https://wuyuan.io/)
 * [广州天翎myApps](http://www.teemlink.com/)
 * [活字格](https://www.grapecity.com.cn/solutions/huozige)
 * [起步科技](http://www.wex5.com/)
@@ -45,6 +52,9 @@
 * [xdeer](https://www.xdeer.cn/)
 * [湘北智造](https://www.xjrsoft.com/)
 * [表单大师](https://www.jsform.com/)
+* [Zion/载航](https://functorz.com/)
+* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith)）
+* [白码](https://www.bnocode.com/product.html)
 
 ## 页面搭建
 
@@ -77,6 +87,7 @@
 * 知乎-Versatile Editor
   * [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
 * [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md)
+* [360 - 即视](https://arena.360.cn/)
   
 ## 店铺装修
 
@@ -130,6 +141,7 @@
   * [使用 React 构建页面可视化搭建工具](https://www.v2ex.com/t/685143)
 * [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)
 * [sparrow-js](https://github.com/sparrow-js/sparrow)
+  * [实时输出前端代码，折腾大半年的开源项目 sparrow-js](https://www.v2ex.com/t/718505)
 * [Tefact](https://github.com/Tefact/tefact-saas): 让你通过无需任何代码即可生成简单CRUD后台
 * [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero): 你不需要懂微服务，懂业务就行
 * [cube](https://github.com/fantasticit/cube)：快速搭建中后台页面
@@ -139,6 +151,9 @@
 * [pl-drag-template](https://github.com/livelyPeng/pl-drag-template)
 * [form-generator](https://github.com/JakHuang/form-generator)：Element UI表单设计及代码生成器
 * [form-render](https://github.com/alibaba/form-render)：通过 JSON Schema 生成标准 Form，基于React
+* [Vue Json Design](https://github.com/fyl080801/vjdesign)
+* [rebuild](https://gitee.com/getrebuild/rebuild)
+* [W5 SOAR](https://github.com/w5teams/w5)
 
 ---
 
@@ -150,6 +165,7 @@
 * https://github.com/vuegg/vuegg
 * https://webcodesk.com/
 * https://github.com/odoo/odoo
+* https://github.com/imgcook/imove
 
 ## 办公/管理系统 a.k.a no-code
 
@@ -161,6 +177,8 @@
 * [monday.com](https://monday.com/)
 * [Airtable](https://airtable.com/)
 * [Notion](https://www.notion.so/)
+* [蒲公英-Tracup](https://www.tracup.com/)
+* [蒲公英-Seed](https://seed.pgyer.com/)
 * https://welovenocode.com/nocodelist
 
 ## 声明式编程
@@ -177,6 +195,7 @@
 * [无代码编程](https://zhuanlan.zhihu.com/p/61288928)
 * [万物代码化：从低代码、云开发到云研发的思考](https://zhuanlan.zhihu.com/p/141742525)
 * [《早早聊搞搭建》搞过搭建的我收获了什么？](https://juejin.im/post/6844904106767695880) 
+* [工程化之低代码体系](https://juejin.cn/post/6913698066935578631) 
 
 ## 技术点
 
@@ -189,6 +208,9 @@
 * [使用 React 写个简单的活动页面运营系统 - 设计篇](https://segmentfault.com/a/1190000004540256)
 * [【电商】用可视化编辑，解构看起来非常炫酷的专题页面](https://www.jianshu.com/p/c4359a7338d3)
 * [如何搭建一个功能复杂的前端配置化框架(一)](https://www.cnblogs.com/wukong-holmes/p/9287763.html)
+* [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
+* [可视化拖拽组件库一些技术要点原理分析（二）](https://juejin.cn/post/6918881497264947207)
+* [可视化拖拽组件库一些技术要点原理分析（三）](https://juejin.cn/post/6929302655118344200)
 
 ## 国外
 
@@ -199,6 +221,8 @@
 * https://www.salesforce.com/
 * https://www.appian.com/
 * https://bubble.io/
+* https://www.adalo.com/
+* https://thunkable.com/
 * http://www.vvveb.com/vvvebjs/editor.html
 * https://www.forestadmin.com/
 * https://mobirise.com/
